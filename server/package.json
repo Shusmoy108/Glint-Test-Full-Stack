@@ -2,7 +2,7 @@
   "name": "resturantsite",
   "version": "1.0.0",
   "description": "Is it Open?",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Shusmoy108/Glint-Test-Full-Stack.git"
@@ -23,6 +23,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongodb": "^4.1.0",
-    "mongoose": "^5.13.5"
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.12"
   }
 }
